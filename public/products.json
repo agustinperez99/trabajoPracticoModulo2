@@ -1,0 +1,7 @@
+[
+    { "id": 1, "name": "Puerta de Chapa", "description": "Puerta De Chapa Inyectada Doble 80x2 Apliques Y Barral 75cm", "price": 100, "image": "https://http2.mlstatic.com/D_NQ_NP_977650-MLA52042578298_102022-O.webp"},
+    { "id": 2, "name": "Puerta Pivotante", "description": "Descripción del Producto 2", "price": 200, "image": "https://http2.mlstatic.com/D_NQ_NP_940259-MLA49805121897_042022-O.webp" },
+    { "id": 3, "name": "Puerta de Chapa Doble", "description": "Puerta Doble/ Porton Inyectada Pintura Final Epoxy Negra", "price": 300, "image": "https://http2.mlstatic.com/D_NQ_NP_604280-MLA74861945232_032024-O.webp" },
+    { "id": 4, "name": "Puerta de Hierro", "description": "Puerta De Hierro De Dos Hojas Estilo Antiguo", "price": 400, "image": "https://http2.mlstatic.com/D_NQ_NP_634729-MLA45105214724_032021-O.webp" }
+  ]
+  
